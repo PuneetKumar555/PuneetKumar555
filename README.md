@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PuneetKumar555
+- 👋 Hi, I’m Puneet Kumar
 - 👀 I’m interested in Software development using C++ and python
 - 🌱 I’m currently learning computer vision.
 - 📫 How to reach me pkumarverma555@gmail.com
